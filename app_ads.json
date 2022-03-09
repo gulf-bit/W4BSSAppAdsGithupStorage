@@ -10,7 +10,7 @@
     "appPackageName": "net.wadelzubair.status.saver",
     "appUrl": "https://play.google.com/store/apps/details?id=io.adsfree.vanced",
     "adSize": 300,
-    "displayAd": true
+    "displayAd": false
   },
   {
     "title": "Ad title",
@@ -23,6 +23,6 @@
     "appPackageName": "net.wadelzubair.status.saver",
     "appUrl": "https://play.google.com/store/apps/details?id=io.adsfree.vanced",
     "adSize": 300,
-    "displayAd": true
+    "displayAd": false
   }
 ]
