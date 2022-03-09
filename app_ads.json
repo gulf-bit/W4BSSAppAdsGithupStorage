@@ -5,6 +5,7 @@
     "isWebsiteAd": true,
     "isAppAd": false,
     "webPageAdUrl": "https://play.google.com/store/apps/details?id=net.wadelzubair.status.saver",
+    "appPackageName": "net.wadelzubair.status.saver",
     "appUrl": "https://play.google.com/store/apps/details?id=io.adsfree.vanced",
     "adSize": 300,
     "displayAd": true
