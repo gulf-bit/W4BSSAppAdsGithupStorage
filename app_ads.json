@@ -16,6 +16,20 @@
   {
     "title": "Ad title",
     "description": "Ad description",
+    "imageUrl": "https://github.com/gulf-bit/W4BSSAppAdsGithupStorage/raw/master/src/ad320_50.jpg",
+    "isWebsiteAd": true,
+    "isAppAd": false,
+    "isGooglePlayApp": true,
+    "webPageAdUrl": "https://play.google.com/store/apps/details?id=net.wadelzubair.status.saver",
+    "appPackageName": "net.wadelzubair.status.saver",
+    "appUrl": "https://play.google.com/store/apps/details?id=io.adsfree.vanced",
+    "adWidth": 300,
+    "adHeight": 50,
+    "displayAd": true
+  },
+  {
+    "title": "Ad title",
+    "description": "Ad description",
     "imageUrl": "https://github.com/gulf-bit/W4BSSAppAdsGithupStorage/raw/master/src/ad300_250.jpg",
     "isWebsiteAd": true,
     "isAppAd": false,
