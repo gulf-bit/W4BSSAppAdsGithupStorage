@@ -11,7 +11,7 @@
     "appUrl": "https://play.google.com/store/apps/details?id=io.adsfree.vanced",
     "adWidth": 300,
     "adHeight": 50,
-    "displayAd": false
+    "displayAd": true
   },
   {
     "title": "Ad title",
